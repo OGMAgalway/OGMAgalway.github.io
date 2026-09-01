@@ -23,7 +23,7 @@ title: O G M A
 /* Fading animation */
 .fade {
     animation-name: fade;
-    animation-duration: 1.5s;
+    animation-duration: 4.5s;
 }
 
 @keyframes fade {
