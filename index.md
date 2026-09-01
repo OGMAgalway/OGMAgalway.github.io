@@ -28,8 +28,8 @@ title: O G M A
 
 @keyframes fade {
     0% { opacity: 0; }
-    30% { opacity: 1; } /* Holds at full opacity longer */
-    70% { opacity: 1; } /* Holds at full opacity longer */
+    10% { opacity: 1; } /* Holds at full opacity longer */
+    90% { opacity: 1; } /* Holds at full opacity longer */
     100% { opacity: 0; }
 }
 
