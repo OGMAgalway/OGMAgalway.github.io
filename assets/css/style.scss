@@ -6,6 +6,20 @@
     display: none !important;
 }
 
+#header .btn {
+    display: none !important;
+}
+
+/* If the above doesn't work, try this broader selector */
+.btn {
+    display: none !important;
+}
+
+/* To also remove the empty space where the button was */
+#header {
+    min-height: auto !important;
+}
+
 /* Change the color of all body text */
 body {
     color: #ffcc00; /* Changes main text to yellow-gold */
