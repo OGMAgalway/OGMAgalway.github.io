@@ -2,10 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-.btn, .buttons {
-    display: none !important;
-}
-
 #header .btn {
     display: none !important;
 }
