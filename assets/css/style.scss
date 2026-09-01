@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Your custom styles go here */
+body {
+    font-family: 'Arial', sans-serif; /* Change the font */
+    font-size: 18px; /* Change the base font size */
+}
+
+h1 {
+    font-size: 2.5rem; /* Change the size of your main heading */
+}
