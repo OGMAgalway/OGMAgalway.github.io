@@ -26,6 +26,23 @@ title: O G M A
     animation-duration: 4.5s;
 }
 
+/* Add this to your existing <style> section */
+.slide-left {
+    animation-name: slideLeft;
+    animation-duration: 1.5s;
+}
+
+@keyframes slideLeft {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
 @keyframes fade {
     from {opacity: 0.4}
     to {opacity: 1}
@@ -61,7 +78,7 @@ Traditional Irish music from the Wild Atlantic Way
 <div class="slideshow-container">
 
     <!-- Slide 1 -->
-    <div class="mySlides fade">
+    <div class="mySlides slide-left">
         <img src="/images/ogma1.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
