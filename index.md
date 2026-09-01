@@ -52,6 +52,22 @@ title: O G M A
         transform: scale(1); 
     }
 }
+/* 3D Rotate + Fade */
+.rotate-fade {
+    animation: rotateFade 1.2s ease-out;
+    perspective: 800px;
+}
+
+@keyframes rotateFade {
+    0% { 
+        transform: rotateY(15deg) scale(0.9); 
+        opacity: 0; 
+    }
+    100% { 
+        transform: rotateY(0) scale(1); 
+        opacity: 1; 
+    }
+}
     
 /* Add this to your existing <style> section */
 .slide-left {
@@ -113,7 +129,7 @@ Traditional Irish music from the Wild Atlantic Way
     </div>
 
     <!-- Slide 3 -->
-    <div class="mySlides fade">
+    <div class="mySlides rotate-fade">
         <img src="/images/ogmaA2.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
