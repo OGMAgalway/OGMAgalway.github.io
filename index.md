@@ -33,6 +33,26 @@ title: O G M A
     100% { opacity: 0; }
 }
 
+/* Combined Fade + Zoom */
+.fade-zoom {
+    animation: fadeZoom 2s ease-in-out;
+}
+
+@keyframes fadeZoom {
+    0% { 
+        opacity: 0; 
+        transform: scale(0.85); 
+    }
+    50% { 
+        opacity: 1; 
+        transform: scale(1.05); 
+    }
+    100% { 
+        opacity: 1; 
+        transform: scale(1); 
+    }
+}
+    
 /* Add this to your existing <style> section */
 .slide-left {
     animation-name: slideLeft;
@@ -87,7 +107,7 @@ Traditional Irish music from the Wild Atlantic Way
     </div>
 
     <!-- Slide 2 -->
-    <div class="mySlides fade">
+    <div class="mySlides fade-zoom">
         <img src="/images/ogmaA3.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
