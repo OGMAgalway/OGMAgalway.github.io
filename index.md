@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Band Name
+title: O G M A 
 ---
 
 # Your Band Name
