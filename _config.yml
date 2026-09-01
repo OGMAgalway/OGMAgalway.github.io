@@ -1,3 +1,4 @@
 remote_theme: ItsPatrq/minimal-categorized
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-theme-midnight
