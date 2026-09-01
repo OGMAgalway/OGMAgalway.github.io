@@ -1,16 +1,30 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-/* Your custom styles go here */
+/* Change the color of all body text */
 body {
-    font-family: 'Arial', sans-serif; /* Change the font */
-    font-size: 24px; /* Change the base font size */
+    color: #ffcc00; /* Changes main text to yellow-gold */
+    font-size: 18px; /* Increases base font size */
 }
 
+/* Change the color and size of headings */
 h1 {
-    font-size: 3.5rem; /* Change the size of your main heading */
-    color: #ff0000; /* Turn all H1 headings red */
-
+    color: #ff4444; /* Changes H1 headings to red */
+    font-size: 3rem; /* Makes H1 headings larger */
 }
+
+h2 {
+    color: #ff8844; /* Changes H2 headings to orange */
+    font-size: 2rem; /* Adjusts H2 size */
+}
+
+/* Change link colors */
+a {
+    color: #66ccff; /* Changes links to light blue */
+}
+
+a:hover {
+    color: #ffffff; /* Changes links to white on hover */
+}
+
