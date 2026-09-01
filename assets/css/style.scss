@@ -2,6 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
+/* Make only the slideshow full-width */
+.slideshow-container, .slide-container {
+    max-width: 100% !important;
+    border-radius: 0 !important; /* Removes rounded corners */
+}
+
 #header .btn {
     display: none !important;
 }
