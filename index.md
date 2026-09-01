@@ -78,7 +78,7 @@ Traditional Irish music from the Wild Atlantic Way
 <div class="slideshow-container">
 
     <!-- Slide 1 -->
-    <div class="mySlides slideLeft">
+    <div class="mySlides slide-left">
         <img src="/images/ogma1.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
