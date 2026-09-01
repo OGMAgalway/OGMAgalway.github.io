@@ -5,7 +5,8 @@ title: O G M A
 
 # O G M A 
 
-Traditional Irish music
+Traditional Irish music from Galway
+<!--
 ## Listen
 [Add your Spotify or Bandcamp link]
 
@@ -15,5 +16,6 @@ Traditional Irish music
 
 ## Hi Mom
 Hello
+-->
 ## Contact
 [opentrad@yahoo.com]
