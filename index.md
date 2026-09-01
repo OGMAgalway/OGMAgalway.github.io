@@ -16,6 +16,6 @@ Traditional Irish music from Galway
 
 ## Hi Mom
 Hello
--->
 ## Contact
-[opentrad@yahoo.com]
+-->
+c o n t a c t [opentrad@yahoo.com]
