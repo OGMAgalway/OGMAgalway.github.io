@@ -20,10 +20,17 @@ title: O G M A
     width: 100%;
 }
 
-/* Fading animation */
+/* Smooth fade transition */
 .fade {
     animation-name: fade;
-    animation-duration: 4.5s;
+    animation-duration: 2s; /* Slower fade for smoother transition */
+}
+
+@keyframes fade {
+    0% { opacity: 0; }
+    20% { opacity: 1; } /* Holds at full opacity longer */
+    80% { opacity: 1; } /* Holds at full opacity longer */
+    100% { opacity: 0; }
 }
 
 /* Add this to your existing <style> section */
@@ -43,10 +50,6 @@ title: O G M A
     }
 }
 
-@keyframes fade {
-    from {opacity: 0.4}
-    to {opacity: 1}
-}
 
 /* Make images responsive */
 .mySlides img {
