@@ -45,7 +45,7 @@ title: O G M A
     }
     50% { 
         opacity: 1; 
-        transform: scale(1.05); 
+        transform: scale(1.55); 
     }
     100% { 
         opacity: 1; 
