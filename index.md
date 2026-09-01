@@ -62,19 +62,19 @@ Traditional Irish music from the Wild Atlantic Way
 
     <!-- Slide 1 -->
     <div class="mySlides fade">
-        <img src="/images/ogma1.jpg" alt="Band photo 1">
+        <img src="/images/ogma1.jpeg" alt="Band photo 1">
         <div class="text">Caption for Image 1</div>
     </div>
 
     <!-- Slide 2 -->
     <div class="mySlides fade">
-        <img src="/images/ogmaA3.jpg" alt="Band photo 1">
+        <img src="/images/ogmaA3.jpeg" alt="Band photo 1">
         <div class="text">Caption for Image 2</div>
     </div>
 
     <!-- Slide 3 -->
     <div class="mySlides fade">
-        <img src="/images/ogmaA2.jpg" alt="Band photo 1">
+        <img src="/images/ogmaA2.jpeg" alt="Band photo 1">
         <div class="text">Caption for Image 3</div>
     </div>
 
