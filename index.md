@@ -3,7 +3,7 @@ layout: default
 title: O G M A 
 ---
 
-# Your Band Name
+# O G M A 
 
 We're a rock band from [city].
 
