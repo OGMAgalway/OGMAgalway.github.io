@@ -5,8 +5,7 @@ title: O G M A
 
 # O G M A 
 
-We're a rock band from [city].
-
+Traditional Irish music
 ## Listen
 [Add your Spotify or Bandcamp link]
 
@@ -14,5 +13,7 @@ We're a rock band from [city].
 - Friday, June 15 - Club Venue, City
 - Saturday, June 16 - Bar Lounge, Town
 
+## Hi Mom
+Hello
 ## Contact
-[your email or social links]
+[opentrad@yahoo.com]
