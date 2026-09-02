@@ -219,7 +219,7 @@ contact: [OPENTRAD@YAHOO.COM]
         </ul>
     </div>
     <div class="right-column">
-        We have performed
+        As well as playing weekly trad sessions in our home town (Galway City), we have performed
         <ul>
             <li>
                 <b> many years in Switzerland (Lausanne, Fribourg, Berne, Bulle,...)</b> 
@@ -229,7 +229,7 @@ contact: [OPENTRAD@YAHOO.COM]
                 President Higgins)</b> 
             </li>
             <li>
-                <b> for large conferences at Guinness Storehouse, Dublin </b> 
+                <b> for large events at Guinness Storehouse, Dublin </b> 
             </li>
             <li>
                 <b> at Cork Folk Festival</b> 
