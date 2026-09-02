@@ -201,15 +201,6 @@ contact: [OPENTRAD@YAHOO.COM]
 
 <div class="two-columns">
     <div class="left-column">
-        <span style="font-family:'Caveat', cursive; font-size:24px;">
-    Special text
-</span>
-        <span style="font-family:'Pacifico', cursive; font-size:24px;">
-    Special text
-</span>
-        <span style="font-family:'Merienda', cursive; font-size:24px;">
-    Special text
-</span>
         <span style="font-family:'Merienda', cursive; font-size:18px;">
                 Occasionally playing with 
         fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
@@ -231,6 +222,7 @@ contact: [OPENTRAD@YAHOO.COM]
         </span>
     </div>
     <div class="right-column">
+        <span style="font-family:'Merienda', cursive; font-size:18px;">
         As well as playing weekly trad sessions in our home town (Galway City), we have performed
         <ul>
             <li>
@@ -250,6 +242,7 @@ contact: [OPENTRAD@YAHOO.COM]
                 <b> at many different conferences, festivals and events in Galway City</b> 
             </li>
         </ul>
+        </span>
     </div>
 </div>
 
