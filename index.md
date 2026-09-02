@@ -209,7 +209,7 @@ Music and craic from the west of Ireland
     <div class="left-column">
         Occasionally playing with fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
         substitutions, we are
-        <ol>
+        <ul>
             <li>
                 <b> Richard Hennessy</b> vocals, guitar, banjo, bouzouki
             </li>
@@ -222,8 +222,29 @@ Music and craic from the west of Ireland
             <li>
                 <b> Cathal Seioghe</b> fiddle, viola
             </li>
+        </ul>
     </div>
-    <div class="right-column">Right</div>
+    <div class="right-column">
+        We have performed
+        <ul>
+            <li>
+                <b> many years in Switzerland (Lausanne, Fribourg, Berne, Bulle,...)</b> 
+            </li>
+            <li>
+                <b> for two successive presidents of Ireland at Aras an Uachtarain (current President Connolly, previous
+                President Higgins)</b> 
+            </li>
+            <li>
+                <b> for large conferences at Guinness Storehouse, Dublin </b> 
+            </li>
+            <li>
+                <b> at Cork Folk Festival</b> 
+            </li>
+            <li>
+                <b> at many different conferences, festivals and events in Galway City</b> 
+            </li>
+        </ul>
+    </div>
 </div>
 
 <div class="video-grid">
