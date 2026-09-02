@@ -68,6 +68,16 @@ title: O G M A
         opacity: 1; 
     }
 }
+
+@keyframes zoomRight {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.5); }
+}
+
+.mySlides img {
+    animation: zoomRight 8s ease-in-out infinite;
+    transform-origin: 80% center;
+}
     
 /* Add this to your existing <style> section */
 .slide-left {
