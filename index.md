@@ -55,7 +55,7 @@ title: O G M A
 
 @keyframes zoomBase {
     0% { transform: scale(1); }
-    100% { transform: scale(1.15); }
+    100% { transform: scale(1.55); }
 }
 
 /* Different zoom origins */
