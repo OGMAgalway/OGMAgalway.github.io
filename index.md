@@ -177,14 +177,6 @@ Music and craic from the west of Ireland
 
 </div>
 
-## Listen
-
-[Add your Spotify or Bandcamp link]
-
-## Upcoming Shows
-
-- Friday, June 15 - Club Venue, City
-- Saturday, June 16 - Bar Lounge, Town
 
 ## Contact
 
@@ -197,11 +189,11 @@ Music and craic from the west of Ireland
 }
 
 .left-column {
-    background-color: lightblue;
+    background-color: black;
 }
 
 .right-column {
-    background-color: lightgreen;
+    background-color: black;
 }
 </style>
 
