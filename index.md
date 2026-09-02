@@ -159,8 +159,8 @@ body {
 <div class="slideshow-container">
 
     <!-- Slide 1 -->
-    <div class="mySlides slide-left">
-        <img src="/images/ogma1.jpeg" alt="Band photo 1">
+    <div class="mySlides zoom-right">
+        <img src="/images/ogma7b.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
 
