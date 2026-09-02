@@ -207,7 +207,7 @@ contact: [OPENTRAD@YAHOO.COM]
         substitutions, we are
         <ul>
             <li>
-                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', cursive; font-size:18px;">vocals, guitar, banjo, bouzouki</span>
+                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', serif; font-size:18px;">vocals, guitar, banjo, bouzouki</span>
             </li>
             <li>
                 <b>|Michael Mc Gettrick|</b> tin whistle, clarinet, low whistle, concertina
