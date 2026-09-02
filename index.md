@@ -99,7 +99,7 @@ title:
 
 .zoom-CR {
     animation: zoomBase 4s ease-in-out infinite;
-    transform-origin: 70% center;
+    transform-origin: 70% 30%;
 }
 
 .zoom-bottom {
