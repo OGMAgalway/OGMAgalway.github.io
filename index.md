@@ -190,10 +190,14 @@ Music and craic from the west of Ireland
 
 .left-column {
     background-color: black;
+    padding: 40px;
+    text-align: left;
 }
 
 .right-column {
     background-color: black;
+    padding: 40px;
+    text-align: left;
 }
 </style>
 
