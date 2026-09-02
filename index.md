@@ -140,7 +140,15 @@ title:
 }
 </style>
 
-<h3>O G M A</h3>
+
+<style>
+h1 {
+    font-size: 48px;
+}
+</style>
+
+
+<h1>O G M A</h1>
 
 Traditional Irish music from the Wild Atlantic Way
 
