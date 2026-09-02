@@ -206,7 +206,23 @@ Music and craic from the west of Ireland
 </style>
 
 <div class="two-columns">
-    <div class="left-column">Left</div>
+    <div class="left-column">
+        Occasionally playing with fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
+        substitutions, we are
+        <ol>
+            <li>
+                <b> Richard Hennessy</b> vocals, guitar, banjo, bouzouki
+            </li>
+            <li>
+                <b> Michael Mc Gettrick</b> tin whistle, clarinet, low whistle, concertina
+            </li>
+            <li>
+                <b> Hugh Melvin</b> flute, vocals, tin whistle, spoons
+            </li>
+            <li>
+                <b> Cathal Seioghe</b> fiddle, viola
+            </li>
+    </div>
     <div class="right-column">Right</div>
 </div>
 
