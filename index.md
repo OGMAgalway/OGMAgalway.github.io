@@ -55,6 +55,8 @@ title: O G M A
 
 @keyframes zoomBase {
     0% { transform: scale(1); }
+    25% { transform: scale(1); }
+    75% { transform: scale(1.95); }
     100% { transform: scale(1.95); }
 }
 
