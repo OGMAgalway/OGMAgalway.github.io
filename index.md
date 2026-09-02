@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O G M A
+title: 
 ---
 
 <style>
@@ -140,7 +140,7 @@ title: O G M A
 }
 </style>
 
-<h1>O G M A</h1>
+<h3>O G M A</h3>
 
 Traditional Irish music from the Wild Atlantic Way
 
