@@ -153,7 +153,7 @@ body {
 
 <h1 style="font-family: 'Pacifico', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-    Music and craic from the west of Ireland
+    <span style="font-family:'Ultra', serif; font-size:16px;">MUSIC AND CRAIC FROM THE WEST OF IRELAND</span>
 
 <div class="slideshow-container">
 
@@ -207,16 +207,16 @@ contact: [OPENTRAD@YAHOO.COM]
         substitutions, we are
         <ul>
             <li>
-                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', serif; font-size:18px;">vocals, guitar, banjo, bouzouki</span>
+                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', serif; font-size:16px;">vocals, guitar, banjo, bouzouki</span>
             </li>
             <li>
-                <b>|Michael Mc Gettrick|</b> tin whistle, clarinet, low whistle, concertina
+                <b>|Michael Mc Gettrick|</b><span style="font-family:'Ultra', serif; font-size:16px;">tin whistle, clarinet, low whistle, concertina</span>
             </li>
             <li>
-                <b>|Hugh Melvin|</b> flute, vocals, tin whistle, spoons
+                <b>|Hugh Melvin|</b> <span style="font-family:'Ultra', serif; font-size:16px;">flute, vocals, tin whistle, spoons</span>
             </li>
             <li>
-                <b>|Cathal Seioghe|</b> fiddle, viola
+                <b>|Cathal Seioghe|</b> <span style="font-family:'Ultra', serif; font-size:16px;">fiddle, viola</span>
             </li>
         </ul>
         </span>
@@ -229,7 +229,7 @@ contact: [OPENTRAD@YAHOO.COM]
                 <b> many years in Switzerland (Lausanne, Fribourg, Berne, Bulle,...)</b> 
             </li>
             <li>
-                <b> for two successive presidents of Ireland at Aras an Uachtarain (current President Connolly, previous
+                <b> for two successive presidents of Ireland at &#193;ras an Uachtar&#225;in (current President Connolly, previous
                 President Higgins)</b> 
             </li>
             <li>
