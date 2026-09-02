@@ -15,6 +15,11 @@ article,
     border-radius: 0 !important;
 }
 
+/* Hide the site title completely */
+header h1 {
+    display: none !important;
+}
+
 /* Remove any left/right padding that might constrain it */
 body,
 .wrapper,
