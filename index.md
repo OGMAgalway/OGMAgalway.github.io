@@ -140,7 +140,7 @@ title: O G M A
 }
 </style>
 
-# O G M A
+<h1>O G M A</h1>
 
 Traditional Irish music from the Wild Atlantic Way
 
