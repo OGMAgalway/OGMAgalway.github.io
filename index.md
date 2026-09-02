@@ -153,7 +153,9 @@ body {
 
 <h1 style="font-family: 'Playfair Display', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-Music and craic from the west of Ireland
+        <span style="font-family:'Pacifico', cursive; font-size:24px;">
+    Music and craic from the west of Ireland
+</span>
 
 <div class="slideshow-container">
 
@@ -201,7 +203,6 @@ contact: [OPENTRAD@YAHOO.COM]
 
 <div class="two-columns">
     <div class="left-column">
-        Occasionally playing with 
         <span style="font-family:'Caveat', cursive; font-size:24px;">
     Special text
 </span>
@@ -211,7 +212,8 @@ contact: [OPENTRAD@YAHOO.COM]
         <span style="font-family:'Merienda', cursive; font-size:24px;">
     Special text
 </span>
-        
+        <span style="font-family:'Merienda', cursive; font-size:24px;">
+                Occasionally playing with 
         fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
         substitutions, we are
         <ul>
@@ -228,6 +230,7 @@ contact: [OPENTRAD@YAHOO.COM]
                 <b>|Cathal Seioghe|</b> fiddle, viola
             </li>
         </ul>
+        </span>
     </div>
     <div class="right-column">
         As well as playing weekly trad sessions in our home town (Galway City), we have performed
