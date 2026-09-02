@@ -141,8 +141,7 @@ title:
 
 </style>
 
-
-<h1 style="font-family: 'Playfair Display', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center;">O G M A</h1>
+<h1 style="font-family: 'Playfair Display', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(1.9);">O G M A</h1>
 
 Traditional Irish music from the Wild Atlantic Way
 
