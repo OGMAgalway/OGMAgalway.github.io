@@ -94,12 +94,12 @@ title:
 
 .zoom-right {
     animation: zoomBase 4s ease-in-out infinite;
-    transform-origin: 90% 80%; /* Your requested 3/4 to the right */
+    transform-origin: 90% 60%; /* Your requested 3/4 to the right */
 }
 
-.zoom-left {
-    animation: zoomBase 10s ease-in-out infinite;
-    transform-origin: 20% center;
+.zoom-CR {
+    animation: zoomBase 4s ease-in-out infinite;
+    transform-origin: 70% center;
 }
 
 .zoom-bottom {
@@ -197,7 +197,7 @@ body {
     </div>
     
     <!-- Slide 3 -->
-    <div class="mySlides rotate-fade">
+    <div class="mySlides zoom-CR">
         <img src="/images/ogmaC.jpg" alt="Band photo 1">
         <div class="text"></div>
     </div>
