@@ -178,9 +178,7 @@ Music and craic from the west of Ireland
 </div>
 
 
-## Contact
-
-[opentrad@yahoo.com]
+contact: [OPENTRAD@YAHOO.COM]
 
 <style>
 .two-columns {
@@ -207,16 +205,16 @@ Music and craic from the west of Ireland
         substitutions, we are
         <ul>
             <li>
-                <b> Richard Hennessy</b> vocals, guitar, banjo, bouzouki
+                <b>|Richard Hennessy|</b> vocals, guitar, banjo, bouzouki
             </li>
             <li>
-                <b> Michael Mc Gettrick</b> tin whistle, clarinet, low whistle, concertina
+                <b>|Michael Mc Gettrick|</b> tin whistle, clarinet, low whistle, concertina
             </li>
             <li>
-                <b> Hugh Melvin</b> flute, vocals, tin whistle, spoons
+                <b>|Hugh Melvin|</b> flute, vocals, tin whistle, spoons
             </li>
             <li>
-                <b> Cathal Seioghe</b> fiddle, viola
+                <b>|Cathal Seioghe|</b> fiddle, viola
             </li>
         </ul>
     </div>
