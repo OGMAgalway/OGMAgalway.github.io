@@ -65,7 +65,7 @@ title: O G M A
 }
 
 .zoom-right {
-    animation: zoomBase 5s ease-in-out infinite;
+    animation: zoomBase 2s ease-in-out infinite;
     transform-origin: 75% center; /* Your requested 3/4 to the right */
 }
 
