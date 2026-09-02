@@ -52,6 +52,33 @@ title:
     }
 }
 
+/* The animation keyframes */
+@keyframes panInOut {
+    0% {
+        transform: translateX(100%); /* Start off-screen to the right */
+        opacity: 0;
+    }
+    40% {
+        transform: translateX(0); /* Pan in to the center */
+        opacity: 1;
+    }
+    60% {
+        transform: translateX(0); /* Stay in the center (pause) */
+        opacity: 1;
+    }
+    100% {
+        transform: translateX(-100%); /* Vanish off-screen to the left */
+        opacity: 0;
+    }
+}
+
+/* The class to apply to your slide */
+.pan-in-out {
+    animation-name: panInOut;
+    animation-duration: 6s; /* Total duration for the whole sequence */
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; /* Stops the slide at its final state */
+}
 @keyframes zoomBase {
     0% { transform: scale(1); }
     25% { transform: scale(1); }
@@ -158,7 +185,7 @@ body {
 <div class="slideshow-container">
 
     <!-- Slide 1 -->
-    <div class="mySlides zoom-right">
+    <div class="mySlides pan-in-out">
         <img src="/images/ogma7b.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
