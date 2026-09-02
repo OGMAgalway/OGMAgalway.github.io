@@ -201,7 +201,12 @@ contact: [OPENTRAD@YAHOO.COM]
 
 <div class="two-columns">
     <div class="left-column">
-        Occasionally playing with fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
+        Occasionally playing with 
+        <span style="font-family:'Caveat', cursive; font-size:24px;">
+    Special text
+</span>
+        
+        fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
         substitutions, we are
         <ul>
             <li>
