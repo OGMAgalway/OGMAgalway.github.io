@@ -138,14 +138,12 @@ title:
     background: rgba(0,0,0,0.6);
     box-sizing: border-box;
 }
-</style>
 
-
-<style>
 h1 {
     font-size: 48px;
 }
 </style>
+
 
 
 <h1>O G M A</h1>
