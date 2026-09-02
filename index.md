@@ -202,7 +202,7 @@ Music and craic from the west of Ireland
 
   <div class="video-card">
     <iframe
-      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      src="https://www.youtube.com/embed/48uJyNcZ7Nc"
       title="Video 2"
       allowfullscreen>
     </iframe>
@@ -210,7 +210,7 @@ Music and craic from the west of Ireland
 
   <div class="video-card">
     <iframe
-      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      src="https://www.youtube.com/embed/orCbHD6lxL4"
       title="Video 3"
       allowfullscreen>
     </iframe>
