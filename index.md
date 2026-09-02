@@ -151,7 +151,7 @@ body {
 
 </style>
 
-<h1 style="font-family: 'Playfair Display', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
+<h1 style="font-family: 'Pacifico', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
         <span style="font-family:'Pacifico', cursive; font-size:24px;">
     Music and craic from the west of Ireland
@@ -212,7 +212,7 @@ contact: [OPENTRAD@YAHOO.COM]
         <span style="font-family:'Merienda', cursive; font-size:24px;">
     Special text
 </span>
-        <span style="font-family:'Merienda', cursive; font-size:24px;">
+        <span style="font-family:'Merienda', cursive; font-size:18px;">
                 Occasionally playing with 
         fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
         substitutions, we are
