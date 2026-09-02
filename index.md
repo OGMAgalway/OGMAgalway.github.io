@@ -190,6 +190,58 @@ Music and craic from the west of Ireland
 
 [opentrad@yahoo.com]
 
+<div class="video-grid">
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 1"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 2"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 3"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 4"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 5"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-card">
+    <iframe
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      title="Video 6"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</div>
+
 <script>
     let slideIndex = 0;
     showSlides();
