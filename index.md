@@ -208,16 +208,16 @@ contact: [OPENTRAD@YAHOO.COM]
         substitutions, we are
         <ul>
             <li>
-                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', serif; font-size:16px;">vocals, guitar, banjo, bouzouki</span>
+                <b>|Richard Hennessy|</b> <span style="font-family:'Ultra', serif; font-size:16px;"> vocals, guitar, banjo, bouzouki</span>
             </li>
             <li>
-                <b>|Michael Mc Gettrick|</b><span style="font-family:'Ultra', serif; font-size:16px;">tin whistle, clarinet, low whistle, concertina</span>
+                <b>|Michael Mc Gettrick|</b><span style="font-family:'Ultra', serif; font-size:16px;"> tin whistle, clarinet, low whistle, concertina</span>
             </li>
             <li>
-                <b>|Hugh Melvin|</b> <span style="font-family:'Ultra', serif; font-size:16px;">flute, vocals, tin whistle, spoons</span>
+                <b>|Hugh Melvin|</b> <span style="font-family:'Ultra', serif; font-size:16px;"> flute, vocals, tin whistle, spoons</span>
             </li>
             <li>
-                <b>|Cathal Seioghe|</b> <span style="font-family:'Ultra', serif; font-size:16px;">fiddle, viola</span>
+                <b>|Cathal Seioghe|</b> <span style="font-family:'Ultra', serif; font-size:16px;"> fiddle, viola</span>
             </li>
         </ul>
         </span>
