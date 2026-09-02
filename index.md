@@ -153,9 +153,7 @@ body {
 
 <h1 style="font-family: 'Pacifico', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-        <span style="font-family:'Pacifico', cursive; font-size:24px;">
     Music and craic from the west of Ireland
-</span>
 
 <div class="slideshow-container">
 
