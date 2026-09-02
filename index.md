@@ -153,9 +153,7 @@ body {
 
 <h1 style="font-family: 'Playfair Display', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-Traditional Irish music from the Wild Atlantic Way
-
-## Slideshow
+Music and craic from the west of Ireland
 
 <div class="slideshow-container">
 
