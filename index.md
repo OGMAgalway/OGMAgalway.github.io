@@ -205,6 +205,12 @@ contact: [OPENTRAD@YAHOO.COM]
         <span style="font-family:'Caveat', cursive; font-size:24px;">
     Special text
 </span>
+        <span style="font-family:'Pacifico', cursive; font-size:24px;">
+    Special text
+</span>
+        <span style="font-family:'Merienda', cursive; font-size:24px;">
+    Special text
+</span>
         
         fewer or more musicians, OGMA normally plays as a 4-piece. With occasional 
         substitutions, we are
