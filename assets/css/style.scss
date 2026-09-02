@@ -2,10 +2,38 @@
 ---
 @import "{{ site.theme }}";
 
-/* Make only the slideshow full-width */
-.slideshow-container, .slide-container {
+/* Force everything to be wider */
+.wrapper,
+section,
+article,
+.slideshow-container,
+.slide-container,
+.mySlides,
+.slide-track {
     max-width: 100% !important;
-    border-radius: 0 !important; /* Removes rounded corners */
+    width: 100% !important;
+    border-radius: 0 !important;
+}
+
+/* Remove any left/right padding that might constrain it */
+body,
+.wrapper,
+section {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Add a little padding just to the text content to keep it readable */
+section p, section h1, section h2, section ul, section ol {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+/* Make slideshow images full-width */
+.mySlides img, .slide-track img {
+    width: 100% !important;
+    height: 400px !important;
+    object-fit: cover !important;
 }
 
 #header .btn {
