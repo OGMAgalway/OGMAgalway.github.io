@@ -151,9 +151,9 @@ body {
 
 </style>
 
-<h1 style="font-family: 'Pacifico', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
+<h1 style="font-family: 'Ultra', serif; font-size: 5rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-    <span style="font-family:'Ultra', serif; font-size:16px;">MUSIC AND CRAIC FROM THE WEST OF IRELAND</span>
+    <b>MUSIC AND CRAIC FROM THE WEST OF IRELAND</b>
 
 <div class="slideshow-container">
 
