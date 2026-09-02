@@ -190,6 +190,26 @@ Music and craic from the west of Ireland
 
 [opentrad@yahoo.com]
 
+<style>
+.two-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left-column {
+    background-color: lightblue;
+}
+
+.right-column {
+    background-color: lightgreen;
+}
+</style>
+
+<div class="two-columns">
+    <div class="left-column">Left</div>
+    <div class="right-column">Right</div>
+</div>
+
 <div class="video-grid">
 
   <div class="video-card">
