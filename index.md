@@ -52,6 +52,34 @@ title: O G M A
         transform: scale(1); 
     }
 }
+
+@keyframes zoomBase {
+    0% { transform: scale(1); }
+    100% { transform: scale(1.15); }
+}
+
+/* Different zoom origins */
+.zoom-center {
+    animation: zoomBase 10s ease-in-out infinite;
+    transform-origin: center center;
+}
+
+.zoom-right {
+    animation: zoomBase 10s ease-in-out infinite;
+    transform-origin: 75% center; /* Your requested 3/4 to the right */
+}
+
+.zoom-left {
+    animation: zoomBase 10s ease-in-out infinite;
+    transform-origin: 20% center;
+}
+
+.zoom-bottom {
+    animation: zoomBase 10s ease-in-out infinite;
+    transform-origin: center 80%;
+}
+
+    
 /* 3D Rotate + Fade */
 .rotate-fade {
     animation: rotateFade 1.2s ease-out;
@@ -69,15 +97,7 @@ title: O G M A
     }
 }
 
-@keyframes zoomRight {
-    0% { transform: scale(1); }
-    100% { transform: scale(1.5); }
-}
-
-.mySlides img {
-    animation: zoomRight 8s ease-in-out infinite;
-    transform-origin: 80% center;
-}
+    
     
 /* Add this to your existing <style> section */
 .slide-left {
@@ -133,7 +153,7 @@ Traditional Irish music from the Wild Atlantic Way
     </div>
 
     <!-- Slide 2 -->
-    <div class="mySlides fade-zoom">
+    <div class="mySlides zoom-right">
         <img src="/images/ogmaA3.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
