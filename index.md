@@ -55,7 +55,7 @@ title: O G M A
 
 @keyframes zoomBase {
     0% { transform: scale(1); }
-    100% { transform: scale(1.55); }
+    100% { transform: scale(1.95); }
 }
 
 /* Different zoom origins */
@@ -65,7 +65,7 @@ title: O G M A
 }
 
 .zoom-right {
-    animation: zoomBase 2s ease-in-out infinite;
+    animation: zoomBase 4s ease-in-out infinite;
     transform-origin: 75% center; /* Your requested 3/4 to the right */
 }
 
