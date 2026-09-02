@@ -75,7 +75,7 @@ title:
 /* The class to apply to your slide */
 .pan-in-out {
     animation-name: panInOut;
-    animation-duration: 6s; /* Total duration for the whole sequence */
+    animation-duration: 4s; /* Total duration for the whole sequence */
     animation-timing-function: ease-in-out;
     animation-fill-mode: forwards; /* Stops the slide at its final state */
 }
