@@ -19,7 +19,6 @@ title:
     display: none;
     width: 100%;
 }
-
 /* Smooth fade transition */
 .fade {
     animation-name: fade;
