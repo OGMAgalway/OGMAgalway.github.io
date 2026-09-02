@@ -275,7 +275,7 @@ Music and craic from the west of Ireland
 
   <div class="video-card">
     <iframe
-      src="https://www.youtube.com/embed/eDo8KBMemUk"
+      src="https://www.youtube.com/embed/vPL60l1Ybso"
       title="Video 5"
       allowfullscreen>
     </iframe>
