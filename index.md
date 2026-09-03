@@ -366,57 +366,6 @@ contact: [OPENTRAD@YAHOO.COM]
     </div>
 </div>
 
-<div class="video-grid">
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/orCbHD6lxL4"
-      title="Video 1"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/48uJyNcZ7Nc"
-      title="Video 2"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/rbjwUWioUpg"
-      title="Video 3"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/W_GasMIG1mM"
-      title="Video 4"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/vPL60l1Ybso"
-      title="Video 5"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-card">
-    <iframe
-      src="https://www.youtube.com/embed/BSdAQUvnLNU"
-      title="Video 6"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-</div>
 
 <script>
     let slideIndex = 0;
