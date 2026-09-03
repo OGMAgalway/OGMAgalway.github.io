@@ -104,7 +104,7 @@ title:
     
 .zoom-CL {
     animation: zoomBase 4s cubic-bezier(0.25, -0.8, 0.75, 1.8) forwards;
-    transform-origin: 30% 50%;
+    transform-origin: 30% 70%;
 }
 
 .zoom-bottom {
