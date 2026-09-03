@@ -7,6 +7,11 @@
 
 @import "{{ site.theme }}";
 
+* {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+}
+
 /* Force everything to be wider */
 .wrapper,
 section,
