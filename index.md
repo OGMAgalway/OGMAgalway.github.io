@@ -242,12 +242,18 @@ body {
 contact: [OPENTRAD@YAHOO.COM]
 
 <style>
-.two-columns {
+.three-columns {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
 .left-column {
+    background-color: black;
+    padding: 40px;
+    text-align: left;
+}
+
+.mid-column {
     background-color: black;
     padding: 40px;
     text-align: left;
@@ -260,7 +266,7 @@ contact: [OPENTRAD@YAHOO.COM]
 }
 </style>
 
-<div class="two-columns">
+<div class="three-columns">
     <div class="left-column">
         <span style="font-family:'Merienda', cursive; font-size:18px;">
                 Occasionally playing with 
@@ -281,6 +287,8 @@ contact: [OPENTRAD@YAHOO.COM]
             </li>
         </ul>
         </span>
+    </div>
+    <div class="mid-column">
     </div>
     <div class="right-column">
         <span style="font-family:'Merienda', cursive; font-size:18px;">
