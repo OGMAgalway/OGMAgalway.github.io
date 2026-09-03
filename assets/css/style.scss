@@ -112,6 +112,36 @@ a:hover {
   border: 0;
 }
 
+/* ---- Mobile Styles (for screens smaller than 768px) ---- */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px !important; /* Slightly smaller for mobile */
+    }
+    
+    h1 {
+        font-size: 2rem !important; /* Smaller on mobile */
+    }
+    
+    .mySlides img, .slide-track img {
+        height: 250px !important; /* Shorter on mobile */
+    }
+    
+    .wrapper {
+        padding: 10px !important; /* Less padding on mobile */
+        max-width: 100% !important;
+    }
+    
+    ul li {
+        font-size: 14px !important;
+        padding: 4px 0 !important;
+    }
+    
+    /* Make the email fit on one line */
+    a[href^="mailto:"] {
+        font-size: 14px !important;
+        word-break: break-all !important;
+    }
+}
 /* On phones, make them 1 across */
 @media (max-width: 700px) {
   .video-grid {
