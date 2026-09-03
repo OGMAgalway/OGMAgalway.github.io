@@ -239,7 +239,7 @@ body {
 </div>
 
 
-contact: [OPENTRAD@YAHOO.COM]
+contact: [<a mailto:OPENTRAD@YAHOO.COM>OPENTRAD@YAHOO.COM</a>]
 
 <style>
 .three-columns {
