@@ -291,6 +291,7 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
     <div class="mid-column">
     <div class="video-grid">
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/orCbHD6lxL4"
@@ -298,7 +299,9 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/48uJyNcZ7Nc"
@@ -306,7 +309,9 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/rbjwUWioUpg"
@@ -314,7 +319,9 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/W_GasMIG1mM"
@@ -322,7 +329,9 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/vPL60l1Ybso"
@@ -330,7 +339,9 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
+<div class="video-container">
   <div class="video-card">
     <iframe
       src="https://www.youtube.com/embed/BSdAQUvnLNU"
@@ -338,6 +349,7 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
 </div>
     </div>
