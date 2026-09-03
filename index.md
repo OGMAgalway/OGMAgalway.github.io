@@ -82,6 +82,7 @@ title:
 @keyframes zoomBase {
     0% { transform: scale(1); }
     25% { transform: scale(1); }
+    65% { transform: scale(2.5); }
     75% { transform: scale(1.95); }
     100% { transform: scale(1.95); }
 }
