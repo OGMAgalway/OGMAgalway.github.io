@@ -218,6 +218,12 @@ body {
         <img src="/images/ogmaA2.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
+    
+    <!-- Slide 3 -->
+    <div class="mySlides zoom-CR">
+        <img src="/images/ogmaD1.jpg" alt="Band photo 1">
+        <div class="text"></div>
+    </div>
 
 </div>
 
