@@ -103,8 +103,8 @@ title:
 }
     
 .zoom-CL {
-    animation: zoomBase 4s cubic-bezier(0.25, -0.8, 0.75, 1.8) forwards;
-    transform-origin: 30% 70%;
+    animation: zoomBase 4s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
+    transform-origin: 25% 80%;
 }
 
 .zoom-bottom {
