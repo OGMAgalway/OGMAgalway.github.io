@@ -94,7 +94,7 @@ title:
 }
 
 .zoom-right {
-    animation: zoomBase 4s ease-in infinite;
+    animation: zoomBase 4s ease-out infinite;
     transform-origin: 90% 60%; /* Your requested 3/4 to the right */
 }
 
