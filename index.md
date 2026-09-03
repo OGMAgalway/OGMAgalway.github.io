@@ -209,7 +209,7 @@ body {
 
     <!-- Slide 1 -->
     <div class="mySlides pan-in-out">
-        <img src="/images/ogmaB2.jpeg" alt="Band photo 1">
+        <img src="/images/ogmaB3b.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
 
