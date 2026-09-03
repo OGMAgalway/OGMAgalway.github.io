@@ -98,7 +98,7 @@ title:
 }
 
 .zoom-CR {
-    animation: zoomBase 4s ease-in-out infinite;
+    animation: zoomBase 4s cubic-bezier(0.25, -0.8, 0.75, 1.8) forwards;
     transform-origin: 60% 1%;
 }
 
