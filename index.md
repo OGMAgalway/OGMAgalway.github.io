@@ -224,6 +224,12 @@ body {
         <div class="text"></div>
     </div>
     
+    <!-- Slide 1 -->
+    <div class="mySlides pan-in-out">
+        <img src="/images/ogmaE1.jpeg" alt="Band photo 1">
+        <div class="text"></div>
+    </div>
+    
     <!-- Slide 3 -->
     <div class="mySlides zoom-CRR">
         <img src="/images/ogmaD1.jpg" alt="Band photo 1">
