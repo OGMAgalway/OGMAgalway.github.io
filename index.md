@@ -101,6 +101,11 @@ title:
     animation: zoomBase 4s cubic-bezier(0.25, -0.8, 0.75, 1.8) forwards;
     transform-origin: 60% 1%;
 }
+    
+.zoom-CL {
+    animation: zoomBase 4s cubic-bezier(0.25, -0.8, 0.75, 1.8) forwards;
+    transform-origin: 30% 50%;
+}
 
 .zoom-bottom {
     animation: zoomBase 10s ease-in-out infinite;
@@ -203,7 +208,7 @@ body {
     </div>
 
     <!-- Slide 3 -->
-    <div class="mySlides rotate-fade">
+    <div class="mySlides zoom-CL">
         <img src="/images/ogmaA2.jpeg" alt="Band photo 1">
         <div class="text"></div>
     </div>
