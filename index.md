@@ -244,7 +244,7 @@ contact: [OPENTRAD@YAHOO.COM]
 <style>
 .three-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .left-column {
