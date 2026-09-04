@@ -235,14 +235,10 @@ a:hover {
         border: 0 !important;
         aspect-ratio: unset !important;
     }
-}
-
-
-/* On phones, make them 1 across */
-@media (max-width: 700px) {
-  .video-grid {
+      .video-grid {
     grid-template-columns: 1fr;
-  }
+    }
 }
+
 
 
