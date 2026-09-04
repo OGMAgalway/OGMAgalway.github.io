@@ -184,12 +184,33 @@ body {
         text-align: center;
         margin: 0;
     }
+.tagline {
+    font-family: 'Caveat', serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    transform: scaleX(2.5);
+    display: inline-block;
+}
+@media (max-width: 768px) {
+
+    .tagline {
+        font-size: 12px !important;
+        transform: scaleX(2.5);
+        display: inline-block;
+        max-width: 100%;
+        white-space: normal;
+        overflow-wrap: break-word;
+    }
+
+}
 
 </style>
 
 <h1 style="font-family: 'Caveat', serif; font-size: 7rem; font-weight: 700; color: #90ee90; text-align: center; transform: scaleX(2.5);">O G M A</h1>
 
-<h1 style="font-family: 'Caveat', serif; font-size: 24px; font-weight: 700; color: white; text-align: center; transform: scaleX(2.5);">MUSIC AND CRAIC FROM THE WEST OF IRELAND</h1>
+<h1 class="tagline"; style="font-family: 'Caveat', serif; font-size: 24px; font-weight: 700; color: white; text-align: center; transform: scaleX(2.5);">MUSIC AND CRAIC FROM THE WEST OF IRELAND</h1>
 
 
 <div class="slideshow-container">
