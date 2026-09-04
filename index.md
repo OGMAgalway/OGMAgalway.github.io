@@ -196,7 +196,7 @@ body {
 @media (max-width: 768px) {
 
     .tagline {
-        font-size: 12px !important;
+        font-size: 8px !important;
         transform: scaleX(2.5);
         display: inline-block;
         max-width: 100%;
