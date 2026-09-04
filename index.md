@@ -218,37 +218,31 @@ body {
     <!-- Slide 2 -->
     <div class="mySlides zoom-right">
         <img src="/images/ogmaA3.jpeg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
 
     <!-- Slide 1 -->
     <div class="mySlides pan-in-out">
         <img src="/images/ogma7b.jpeg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
     
     <!-- Slide 3 -->
     <div class="mySlides zoom-CR">
         <img src="/images/ogmaC.jpg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
 
     <!-- Slide 1 -->
     <div class="mySlides pan-in-out">
         <img src="/images/ogmaB3b.jpeg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
 
     <!-- Slide 3 -->
     <div class="mySlides zoom-CL">
         <img src="/images/ogmaA2.jpeg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
     
     <!-- Slide 1 -->
     <div class="mySlides pan-in-out">
         <img src="/images/ogmaE1.jpeg" alt="Band photo 1">
-        <div class="text"></div>
     </div>
     
     <!-- Slide 3 -->
