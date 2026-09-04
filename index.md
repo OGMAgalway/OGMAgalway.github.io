@@ -245,6 +245,19 @@ contact: [<a href="mailto:OPENTRAD@YAHOO.COM">OPENTRAD@YAHOO.COM</a>]
 .three-columns {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .three-columns {
+        grid-template-columns: 1fr;
+    }
+
+    .left-column,
+    .mid-column,
+    .right-column {
+        padding: 20px;
+    }
 }
 
 .left-column {
